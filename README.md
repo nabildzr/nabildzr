@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg"><img src="https://telegra.ph/file/3fc1e4f4ea4e38b83f654.jpg"</a>
+<a href="https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg"><img src="https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg"</a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=KIKUCHANJ+WABOT+MD;CREATED+BY+TAKASHI+KEMII" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
