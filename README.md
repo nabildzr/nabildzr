@@ -6,7 +6,7 @@
 <a href="https://github.com/nabildzr/nabildzr/watchers"><img src="https://img.shields.io/github/watchers/nabildzr/nabildzr.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/repo-size/nabildzr/nabildzr.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) yang dimiliki oleh WhatsApp Business API. Sistem bot ini mampu berperan sebagai asisten virtual yang membalas setiap pesan WhatsApp secara otomatis dalam hitungan detik.
