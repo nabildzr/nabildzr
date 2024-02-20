@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg"><img src="https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg"</a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Secular+One&size=30&duration=1800&pause=1000&color=F7F1B1&center=false&vCenter=false&random=false&width=435&lines=Great+-+Wabot;Modifier%3A+%40nabildzr" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Secular+One&size=30&duration=1800&pause=1000&color=F7F1B1&center=true&vCenter=true&random=false&width=435&lines=Great+-+Wabot;Modifier%3A+%40nabildzr" alt="Typing SVG" /></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/nabildzr-white?logo=instagram&link=https%3A%2F%2Finstagram.com%2Fnabildzr">
 <a href="https://github.com/nabildzr/nabildzr/watchers"><img src="https://img.shields.io/github/watchers/nabildzr/nabildzr.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/stars/nabildzr/nabildzr.svg"</a>
