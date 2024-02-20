@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=KIKUCHANJ+WABOT+MD;CREATED+BY+TAKASHI+KEMII" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
-<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/watchers/nabildzr/nabildzr.svg"</a>
+<a href="https://github.com/nabildzr/nabildzr/watchers"><img src="https://img.shields.io/github/watchers/nabildzr/nabildzr.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
