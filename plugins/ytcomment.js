@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, args, text, command, usedPrefix, isCreator, isPrems }) => {
   let response = args.join(' ').split('|')
-  if (!args[0]) return conn.reply(m.chat, ` • *Example :* ${usedPrefix}${command} Takashi|kemii`, m)
+  if (!args[0]) return conn.reply(m.chat, ` • *Example :* ${usedPrefix}${command} Nabildzr|Great`, m)
 	conn.sendMessage(m.chat, {
 		react: {
 			text: '🕒',
