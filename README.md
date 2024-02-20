@@ -3,17 +3,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=KIKUCHANJ+WABOT+MD;CREATED+BY+TAKASHI+KEMII" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/rating-★★★★★-brightgreen"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/watchers/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/Takashi-Kemii/Kiku"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/watchers/Takashi-Kemii/Kiku.svg"</a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/repo-size/Takashi-Kemii/Kiku.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) yang dimiliki oleh WhatsApp Business API. Sistem bot ini mampu berperan sebagai asisten virtual yang membalas setiap pesan WhatsApp secara otomatis dalam hitungan detik.
 
 <details close="close">
-<summary>Bot Ini Dikembangkan Oleh <b>Takashi Kemii</b></summary>
-<a href="http://wa.me/6288983236739"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
+<summary>Bot Ini Dikembangkan Oleh <b>Nabildzr</b></summary>
+<a href="http://wa.me/6289514847060"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 <a href="http://www.instagram.com/thiskemii"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
 </details><details close="close"><summary>Tutorial Menginstall <b>Kiku - Wabot</b></summary>
 
