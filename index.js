@@ -12,12 +12,12 @@ const { color } = require('./lib/color')
 const { say } = CFonts
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-say('KIKU\nMD', {
+say('Great\n+', {
   font: 'block',
   align: 'center',
   colors: ['blue']
 })
-say(`Simple Whatsapp Bot By @Kemii`, {
+say(`Simple Whatsapp Bot By @Nabildzr`, {
   font: 'console',
   align: 'center',
   colors: ['green']
