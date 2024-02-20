@@ -27,7 +27,7 @@ Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) 
 ### 1. -
 > -
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/Takashi-Kemii/Kiku.git && cd Kiku;rm -rf session.json;node index
+pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/nabildzr/nabildzr.git && cd nabildzr;rm -rf session.json;node index
 ```
 ### 2. Pairing Code
 > -
@@ -40,7 +40,7 @@ pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone 
 ### 1. -
 > -
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/Takashi-Kemii/Kiku.git && cd Kiku;rm -rf session.json;node index
+pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/nabildzr/nabildzr.git && cd nabildzr;rm -rf session.json;node index
 ```
 ### 2. -
 > -
