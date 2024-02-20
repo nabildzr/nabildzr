@@ -68,6 +68,7 @@ global.APIKeys = {
     'https://api.lolhuman.xyz': '-',
     'https://api.itsrose.life': '-',
     'https://skizo.tech': '-',
+    'https://api.botcahx.eu.org': 'infsazz10nd0vkd',
 }
 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
@@ -97,19 +98,19 @@ global.kiku = 'application/vnd.android.package-archive'
 // Database
 global.version = '2.0.1'
 global.sessionName = 'nabildzr'
-global.gcbot = 'https://chat.whatsapp.com/FMzkNwRU9Kg2OG2hq4F0M0'
-global.instagram = 'https://instagram.com/kemii.learning'
+global.gcbot = 'https://chat.whatsapp.com/KKtBx1ZcncHKCxDKvStAmh'
+global.instagram = 'https://instagram.com/nabildzr'
 global.namebot = '© Great v2.0.1 (Public Bot)'
-global.thumb = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
-global.thumbnail = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
+global.thumb = 'https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg'
+global.thumbnail = 'https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560117208293bc4.jpg'
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
 global.email = 'nabildzikrika@gmail.com'
 global.creator = "6289514847060@s.whatsapp.net"
-global.nomorbot = '-'
-global.nomorown = '6287814037812'
-global.pairingNumber = ''
+global.nomorbot = '6287814037811'
+global.nomorown = '6289514847060'
+global.pairingNumber = '6287814037811'
 
 // Harga Nokos
 global.nokosindo = '7000'
@@ -150,7 +151,7 @@ global.useMulti = true
 global.autoread = true
 
 // Watermark
-global.packname = 'Nabildzr'
+global.packname = 'nabildzr'
 global.author = '// Nabildzr'
 global.wm = '@nabildzr'
 global.wm2 = '@nabildzr'
@@ -159,7 +160,7 @@ global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.danied = 'A K S E S  K A M U  D I  T O L A K!!'
 global.done = '```Success...\nDont forget to donate```'
-global.packname = 'Nabildzr'
+global.packname = 'nabildzr'
 global.author = 'Nabildzr'
 global.nameown = 'Nabildzr'
 global.wait = 'Wait a moment... '
