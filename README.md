@@ -5,7 +5,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/nabildzr-white?logo=instagram&link=https%3A%2F%2Finstagram.com%2Fnabildzr">
 <a href="https://github.com/nabildzr/nabildzr/watchers"><img src="https://img.shields.io/github/watchers/nabildzr/nabildzr.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/stars/Takashi-Kemii/Kiku.svg"</a>
-<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/forks/Takashi-Kemii/Kiku.svg"</a>
+<a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/forks/nabildzr/nabildzr.svg"</a>
 <a href="https://github.com/nabildzr/nabildzr"><img src="https://img.shields.io/github/repo-size/nabildzr/nabildzr.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
