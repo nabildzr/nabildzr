@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.owner = [
   ['-'],
   ['-'],
-  ['6289514847060', '6289514847060', 'nabildzikrika@gmail.com', true]
+  ['', '', '', true]
 ] // Put your number here
 global.mods = ['-'] // Moderator
 global.prems = ['-'] // Premium
@@ -106,11 +106,11 @@ global.thumbnail = 'https://i.pinimg.com/originals/ff/6d/f6/ff6df6154971fd0e4560
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
-global.email = 'nabildzikrika@gmail.com'
-global.creator = "6289514847060@s.whatsapp.net"
-global.nomorbot = '6287814037811'
-global.nomorown = '6289514847060'
-global.pairingNumber = '6287814037811'
+global.email = ''
+global.creator = "@s.whatsapp.net"
+global.nomorbot = ''
+global.nomorown = ''
+global.pairingNumber = ''
 
 // Harga Nokos
 global.nokosindo = '7000'
