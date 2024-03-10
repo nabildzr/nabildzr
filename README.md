@@ -22,7 +22,7 @@ Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) 
 <summary><i><b>Indonesian</b></i></summary>
 
 ***
-### 1. -
+### 1. -.
 > -
 ```
 
