@@ -1,5 +1,4 @@
-# 💫 About Me:
-asd
+# Hi I'm Nabildzr,
 
 
 ## 🌐 Socials:
