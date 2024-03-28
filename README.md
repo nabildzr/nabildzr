@@ -33,6 +33,4 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nabildzr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nabildzr" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabildzr&layout=compact&theme=" alt=nabildzr />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nabildzr&show_icons=true&locale=en&theme=dark" alt="nabildzr" /></p>
