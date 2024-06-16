@@ -1,4 +1,4 @@
-<!-- 
+<!--
 <h2 align="center">
   Welcome to Al Siam World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,14 +7,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a class="name" target="_blank" href="https://nabildzr.xyz">Nabildzr</a></b>
+                <b><a target="_blank" href="https://nabildzr.xyz">Nabildzr</a></b>
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
-    <a class="google-me" href="https://www.google.com/search?q=nabildzr">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=nabildzr">「 Google Me 」</a>
     <br>
     「 I from <b>Indonesia</b> 」
     <br>
@@ -23,7 +22,7 @@
 </p>
 
 <p align="center">
- <a class="website" href="https://nabildzr.xyz" target="blank">
+ <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
  </a>
  <a href="https://linkedin.com/in/nabildzr_" target="_blank">
@@ -45,15 +44,15 @@
 <br />
 
 <!-- About Section -->
- # <p align="center">About Me</p>
- 
+
+# <p align="center">About Me</p>
+
 <p>
- <img align="right" style="border-radius: 30px;box-shadow: 0px 0px 100rem" width="150" src="https://i.pinimg.com/originals/e0/3f/72/e03f72939f5689edb9681aaf043036e5.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ <img align="right" width="150" src="https://i.pinimg.com/originals/e0/3f/72/e03f72939f5689edb9681aaf043036e5.gif" alt="Coding gif" />
+  <ul>
+    <li>Nabildzr</li>
+  </ul>
+   <br/>
 
 </p>
 
@@ -81,6 +80,7 @@
 <br/>
 
 # <p align="center">Top Open Source</p>
+
 [![App Project](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nime-api-test&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=news-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Nabildzr Readme](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nabildzr&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/readme)
@@ -110,6 +110,5 @@
   <a href="https://github.com/nabildzr"><img alt="Nabildzr Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nabildzr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
 
 ![Nabildzr Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabildzr&custom_title=Nabildzr's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
