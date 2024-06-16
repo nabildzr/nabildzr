@@ -4,15 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2> -->
 
-<style>
-.name {transition: .5s} 
-.name:hover {color: lightblue; transition: .5s} 
-
-.google-me {transition: .5s}
-.google-me:hover {color: lightblue; transition: .5s;text-decoration: none; font-weight: bold; text-shadow: 0px 0px 10px}
-
-.website:hover {box-shadow: 200px -100px 100px}
-</style>
 
 <p align="center">
   <a href="https://github.com/nabildzr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Indie%20Programmer;5%2B%20months%20of%20Coding%20Experience;Always%20Sleep%20and%20Listening Music&center=true&width=380&height=45"></a>
