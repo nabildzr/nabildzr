@@ -85,8 +85,8 @@
 
 # <p align="center">Top Open Source</p>
 
-[![App Project](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nime-api-test&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=news-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![App Project](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nime-api-test&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/nime-api-test)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=news-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/news-web)
 [![Nabildzr Readme](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nabildzr&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/readme)
 
 <p align="left">
