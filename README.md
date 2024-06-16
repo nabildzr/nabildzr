@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2> -->
 
-
-<p align="center">
-  <a href="https://github.com/nabildzr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Indie%20Programmer;5%2B%20months%20of%20Coding%20Experience;Always%20Sleep%20and%20Listening Music&center=true&width=380&height=45"></a>
-</p>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
