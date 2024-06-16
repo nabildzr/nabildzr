@@ -50,9 +50,11 @@
 <p>
  <img align="right" width="150" src="https://i.pinimg.com/originals/e0/3f/72/e03f72939f5689edb9681aaf043036e5.gif" alt="Coding gif" />
   <ul>
-    <li>Nabildzr</li>
+    <li><h3><b>Name :</b> Nabildzr</h3></li>
+    <li><h3><b>Bot : </b><u>+62 878-1403-7812</u></h3></li>
+  
   </ul>
-   <br/>
+   
 
 </p>
 
@@ -60,7 +62,9 @@
 <br/>
 <br/>
 
-# <p align="center">Use to Code</p>
+
+
+# <p align="center">Skills</p>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
