@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2> -->
 
@@ -44,13 +44,9 @@
 <br />
 
 <!-- About Section -->
-
-# <p align="center">About Me</p>
-
 <p>
  <img align="right" width="150" src="https://i.pinimg.com/originals/e0/3f/72/e03f72939f5689edb9681aaf043036e5.gif" alt="Coding gif" />
   <ul>
-    <li><h3><b>Name :</b> Nabildzr</h3></li>
     <li><h3><b>Bot : </b><u>+62 878-1403-7812</u></h3></li>
   
   </ul>
