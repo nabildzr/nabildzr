@@ -43,21 +43,6 @@
 </p>
 <br />
 
-<!-- About Section -->
-<p>
- <img align="right" width="150" src="https://i.pinimg.com/originals/e0/3f/72/e03f72939f5689edb9681aaf043036e5.gif" alt="Coding gif" />
-  <ul>
-    <li><h3><b>Bot : </b><u>+62 878-1403-7812</u></h3></li>
-  
-  </ul>
-   
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
 
 
 # <p align="center">Skills</p>
@@ -99,5 +84,3 @@
   <a href="https://github.com/nabildzr"><img alt="Nabildzr Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nabildzr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-![Nabildzr Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabildzr&custom_title=Nabildzr's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
