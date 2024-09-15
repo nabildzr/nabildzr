@@ -83,22 +83,11 @@
 
 <br/>
 
-# <p align="center">Top Open Source</p>
-
-[![App Project](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nime-api-test&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/nime-api-test)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=news-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/news-web)
-[![Nabildzr Readme](https://github-readme-stats.vercel.app/api/pin/?username=nabildzr&repo=nabildzr&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nabildzr/readme)
-
-<p align="left">
-  <a href="https://github.com/nabildzr?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/nabildzr">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Nabildzr's GitHub streak"/>
   </a>
 </p>
