@@ -21,6 +21,8 @@
   </samp>
 </p>
 
+<img src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" style="border-radius: 10px;"/>
+
 <p align="center">
  <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
