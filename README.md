@@ -3,7 +3,7 @@
   Welcome to !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2> -->
-<img src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" style="border-radius: 10px;"/>
+<img align="center" src="https://i.pinimg.com/originals/97/41/f0/9741f0c6151635b29300e6f7656e1644.gif" style="border-radius: 10px;"/>
 
 <!-- Intro  -->
 <h3 align="center">
