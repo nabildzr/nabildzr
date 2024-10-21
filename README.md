@@ -63,15 +63,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
 
 <br/>
-
+<!--
 <hr/>
 <br/>
 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/nabildzr">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Nabildzr's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/nabildzr">
