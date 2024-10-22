@@ -23,6 +23,13 @@
 </p>
 
 
+<details open align="center">
+<summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
+</details>
+</div>
+
 <p align="center">
  <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
