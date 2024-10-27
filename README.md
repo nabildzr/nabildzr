@@ -16,7 +16,7 @@
   <samp>
     <a href="https://www.google.com/search?q=nabildzr">「 Google Me 」</a>
     <br>
-    「 I from <b>Indonesia</b> 」
+    「 I'm <b>Indonesian</b> 」
     <br>
     <br>
   </samp>
