@@ -7,40 +7,40 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+<!--         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://nabildzr.xyz">Nabildzr</a></b>
-        </samp>
+        </samp> -->
 </h3>
 
 <p align="center"> 
-  <samp>
+<!--   <samp>
     <a href="https://www.google.com/search?q=nabildzr">「 Google Me 」</a>
     <br>
     「 I'm <b>Indonesian</b> 」
     <br>
     <br>
-  </samp>
+  </samp> -->
 </p>
 
 
 <details open align="center">
-<summary><b>←Total Profile Visitors ↓</b></summary>
+<!-- <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <a href="https://www.instagram.com/nabildzr"><img alt="Cute Count" src="https://count.getloli.com/get/@Nabildzr?theme=rule34"/></a>
-</details>
+</details> -->
 </div>
 
 <p align="center">
- <a href="https://nabildzr.xyz" target="blank">
+<!--  <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
- </a>
+ </a> -->
 <!--  <a href="https://linkedin.com/in/nabildzr_" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabildzr"/>
  </a> -->
 <!--  <a href="https://dev.to/nabildzr" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="nabildzr" />
  </a> -->
- <a href="https://twitter.com/nabildzr" target="_blank">
+<!--  <a href="https://twitter.com/nabildzr" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nabildzr"/>
  </a>
  <a href="https://instagram.com/nabildzr" target="_blank">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="nabildzr"  />
   </a> 
 </p>
-<br />
+<br /> -->
 
 
 
