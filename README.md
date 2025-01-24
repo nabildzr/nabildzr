@@ -30,7 +30,7 @@
 </details>
 </div>
 
-<p align="center>
+<p align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zjueubecwl6rrnuen5i7rn3sse)
 </p>
 
