@@ -76,12 +76,12 @@
 <hr/>
 <br/>
 none
- -->
  <p align="center">
   <a href="https://github.com/nabildzr">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Nabildzr's GitHub streak"/>
   </a>
 </p>
+ -->
 
 <!-- <p align="center">
   <a href="https://github.com/nabildzr">
