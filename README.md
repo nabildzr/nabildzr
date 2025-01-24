@@ -30,6 +30,9 @@
 </details>
 </div>
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zjueubecwl6rrnuen5i7rn3sse&unique={true|1|on|yes})
+
 <p align="center">
 <!--  <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
