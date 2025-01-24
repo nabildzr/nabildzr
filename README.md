@@ -31,7 +31,9 @@
 </div>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zjueubecwl6rrnuen5i7rn3sse)
+<center>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zjueubecwl6rrnuen5i7rn3sse)
+</center>
 
 <p align="center">
 <!--  <a href="https://nabildzr.xyz" target="blank">
