@@ -35,8 +35,8 @@
 
 
 
-<p align="center">
-<!--  <a href="https://nabildzr.xyz" target="blank">
+<!-- <p align="center">
+ <a href="https://nabildzr.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nabildzr" />
  </a> -->
 <!--  <a href="https://linkedin.com/in/nabildzr_" target="_blank">
@@ -74,7 +74,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
 
-<br/>
 <!--
 <hr/>
 <br/>
