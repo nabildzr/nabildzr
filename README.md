@@ -8,14 +8,7 @@
 <div align="center">
  <table>
    <td align="center">
-    <img src="./metrics.plugin.anilist.svg">
-    <details><summary>Manga version</summary>
-      <img src="./metrics.plugin.anilist.manga.svg">
-    </details>
-    <details open><summary>Favorites characters version</summary>
-      <img src="./metrics.plugin.anilist.characters.svg">
-    </details>
-    <img width="900" height="1" alt="">
+    <img src="./github-metrics.svg">
   </td>
  </table>
 </div>
