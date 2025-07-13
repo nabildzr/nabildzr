@@ -7,21 +7,6 @@
 
 <div align="center">
  <table>
-   <tr>
-     <td rowspan=2> <img src="./metrics.classic.svg" alt="classic" /> </td>
-     <td> 
-	     <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="fullyear" /> 
-     </td>
-   </tr>
-   <tr>
-	   <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td> 
-   </tr>
-   <tr>
-	   <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
-   </tr>
-   <tr>
-	   <td><img src="./metrics.plugin.leetcode.svg" alt="stars" /></td> 
-   </tr>
    <td align="center">
     <img src="./metrics.plugin.anilist.svg">
     <details><summary>Manga version</summary>
@@ -37,4 +22,4 @@
 <hr/>
 
 
-<a href="https://discord.com/users/519781597155950602"><img src="https://lanyard.kyrie25.dev/api/519781597155950602?theme=dark&showBanner=animated&bannerFilter=blur(2px)&showDisplayName=true&animatedDecoration=true&hideBadges=false&hideActivity=false" /></a>
+<a href="https://discord.com/users/519781597155950602" align="center"><img src="https://lanyard.kyrie25.dev/api/519781597155950602?theme=dark&showBanner=animated&bannerFilter=blur(2px)&showDisplayName=true&animatedDecoration=true&hideBadges=false&hideActivity=false" /></a>
