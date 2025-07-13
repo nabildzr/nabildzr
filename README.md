@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Nabildzr&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=nabildzr&label=Profile%20views&color=0e75b6&style=flat" alt="nabildzr" /> </p>
+![nabildzr](https://count.getloli.com/@nabildzr?name=nabildzr&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 <div align="center">
  <table>
