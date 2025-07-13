@@ -23,12 +23,12 @@
 	   <td><img src="./metrics.plugin.leetcode.svg" alt="stars" /></td> 
    </tr>
    <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.svg">
+    <img src="./metrics.plugin.anilist.svg">
     <details><summary>Manga version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.manga.svg">
+      <img src="./metrics.plugin.anilist.manga.svg">
     </details>
     <details open><summary>Favorites characters version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.anilist.characters.svg">
+      <img src="./metrics.plugin.anilist.characters.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
